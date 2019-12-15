@@ -1,1 +1,5 @@
 *.swp
+pkg
+src
+*.tar.xz
+rpi-eeprom_checkout
