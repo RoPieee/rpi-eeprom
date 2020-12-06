@@ -1,7 +1,7 @@
 # Maintainer: Harry ten Berge <htenberge@gmail.com>
 
 pkgname=rpi-eeprom
-pkgver=20201107
+pkgver=20201206
 pkgrel=1
 arch=(any)
 url="https://github.com/RoPieee/rpi-eeprom"
