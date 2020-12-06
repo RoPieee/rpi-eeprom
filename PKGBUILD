@@ -2,10 +2,11 @@
 
 pkgname=rpi-eeprom
 pkgver=20201206
-pkgrel=1
+pkgrel=2
 arch=(any)
 url="https://github.com/RoPieee/rpi-eeprom"
 license=('custom')
+depends=('python')
 source=('checkout::git+https://github.com/RoPieee/rpi-eeprom.git')
 options=(!strip)
 
